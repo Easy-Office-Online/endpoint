@@ -1,1 +1,1 @@
-cmd /min /C "set __COMPAT_LAYER=RUNASINVOKER && start "C:\Program Files (x86)\Hypobox\Bin\Hypoboxmain.exe" "%1""
+cmd /C "set __COMPAT_LAYER=RUNASINVOKER && start Hypoboxmain.exe"
